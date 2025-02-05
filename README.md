@@ -19,6 +19,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saraclementino&theme=dracula" />
 </div>
 <div align="center" style="display: flex; gap: 10px;">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saraclementino&layout=compact&theme=dracula" width="350px" height="240px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraclementino&theme=dracula" width="350px" height="240px"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saraclementino&layout=compact&theme=dracula" width="350px" height="240px"/>
 </div>
